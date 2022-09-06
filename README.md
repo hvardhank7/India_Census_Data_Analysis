@@ -18,4 +18,4 @@ x) Total males and females population State wise.
 xi) Total Literacy rate
 xii) Population in previous census.
 
-I have also created the PowerBI dashboard for India Census Data .Kindly click on the link below to check the Power BI dashboard.
+I have also created the PowerBI dashboard for India Census Data .Kindly click on the link below to check the Power BI dashboard..
